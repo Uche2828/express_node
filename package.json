@@ -1,0 +1,24 @@
+{
+  "name": "express_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uche2828/express_node.git"
+  },
+  "author": "uche2828",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uche2828/express_node/issues"
+  },
+  "homepage": "https://github.com/Uche2828/express_node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.9.1",
+    "mongoose": "^7.0.3"
+  }
+}
